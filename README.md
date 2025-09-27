@@ -5,30 +5,45 @@
 <!--About me icono-->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Manuel! 
-*Data Sciense*
-<br /> 
-
 <!--GIF-->
 <div>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxOHJtZXIzemI3ZmRxYWh0NWo4dm42bXltdzZoOXFpZXp6azlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
 </div>
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Hi there! I'm Manuel Moreno, a passionate data science enthusiast from Ciudad Obregón, Sonora 🇲🇽. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+🔍 After working in sales, I discovered the power of data to understand behavior, optimize decisions, and solve real-world problems. Since then, I've been diving deep into the world of analytics and machine learning.
+
+📊 I specialize in:
+- Python, SQL, and MySQL
+- Data analysis with Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning fundamentals
+- Power BI for business intelligence and visualization
+  
+🎓 Certified in:
+- 🧠 Machine Learning & Data Science with Python – Udemy  
+  Credential ID: UC-3f16b4f5-7177-47fd-9e2e-6350f8040a1d  
+  [Ver certificado](https://www.udemy.com/certificate/UC-3f16b4f5-7177-47fd-9e2e-6350f8040a1d/)
+
+- 📊 Power BI Advanced Analyst – Udemy  
+  Credential ID: UC-f5dfb01f-ab2-4d31-a94c-13ad961c664c  
+  [Ver certificado](https://www.udemy.com/certificate/UC-f5dfb01f-ab2-4d31-a94c-13ad961c664c/)
+
+- 🗃️ SQL TOTAL: Bases de Datos de 0 a Avanzado en 12 Días – Udemy  
+  Credential ID: UC-751e5d47-b92e-4209-b19f-1b51c98b47ab  
+  [Ver certificado](https://www.udemy.com/certificate/UC-751e5d47-b92e-4209-b19f-1b51c98b47ab/)
+
+
+🚀 Currently seeking opportunities in data science and analytics where I can apply my skills, grow professionally, and contribute to meaningful projects.
+
+📫 Let's connect! I'm always open to collaboration, learning, and sharing knowledge.
+
+  </p>
 <!--End Intro-->
 
 
-💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> 
 
 <p align="center">
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"> </code>
@@ -64,4 +79,29 @@ class Studies:
     while coffee & work:
       days += 1
       productivity()
-	
+```
+
+Here are some of the projects I've worked on to apply my data science skills in real-world scenarios:
+
+### 🧠 Machine Learning with Python
+🔗 [View Repository](https://github.com/tu-usuario/ml-python-project)  
+A complete machine learning pipeline using Python, Pandas, and Scikit-learn. Includes data cleaning, feature engineering, model training, and evaluation.
+
+### 📊 Power BI Sales Dashboard
+🔗 [View Repository](https://github.com/tu-usuario/powerbi-sales-dashboard)  
+Interactive dashboard built with Power BI to visualize sales performance, customer segmentation, and regional trends.
+
+### 🐍 SQL + Python Data Analysis
+🔗 [View Repository](https://github.com/tu-usuario/sql-python-analysis)  
+Exploratory data analysis using SQL queries and Python visualizations. Focused on extracting insights from a retail dataset.
+
+### 📈 Time Series Forecasting
+🔗 [View Repository](https://github.com/tu-usuario/time-series-forecasting)  
+Forecasting future demand using ARIMA and Prophet models. Includes visualizations and performance metrics.
+
+### 🐙 Web Scraping with Scrapy
+🔗 [View Repository](https://github.com/tu-usuario/web-scraping-scrapy)  
+Automated data extraction from e-commerce sites using Scrapy. Cleaned and stored data for analysis in Pandas.
+
+
+
