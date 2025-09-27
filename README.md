@@ -106,5 +106,25 @@ Forecasting future demand using ARIMA and Prophet models. Includes visualization
 🔗 [View Repository](https://github.com/tu-usuario/web-scraping-scrapy)  
 Automated data extraction from e-commerce sites using Scrapy. Cleaned and stored data for analysis in Pandas.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuel-moreno-7475a4370/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/manuelmg59/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/521644XXXXXXX" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  <a href="mgh597@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Many59" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+<p align="center">
+Thanks for visiting my profile! Let's build something amazing together 🚀
+
 
 
