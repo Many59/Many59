@@ -25,7 +25,8 @@
 - 🧠 Machine Learning & Data Science with Python – Udemy  
   Credential ID: UC-fedd55da-8f4c-4448-87cf-9c3d9003c948 
   [Ver certificado](https://www.udemy.com/certificate/UC-fedd55da-8f4c-4448-87cf-9c3d9003c948/)
-   Credential ID: UC-3a1f6be5-7f17-4f7d-9c2e-63050f840ad0
+  
+  Credential ID: UC-3a1f6be5-7f17-4f7d-9c2e-63050f840ad0
   [Ver certificado](https://www.udemy.com/certificate/UC-3a1f6be5-7f17-4f7d-9c2e-63050f840ad0/)
 
 - 📊 Power BI Advanced Analyst – Udemy  
