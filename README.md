@@ -23,12 +23,14 @@
   
 🎓 Certified in:
 - 🧠 Machine Learning & Data Science with Python – Udemy  
-  Credential ID: UC-3f16b4f5-7177-47fd-9e2e-6350f8040a1d  
-  [Ver certificado](https://www.udemy.com/certificate/UC-3f16b4f5-7177-47fd-9e2e-6350f8040a1d/)
+  Credential ID: UC-fedd55da-8f4c-4448-87cf-9c3d9003c948 
+  [Ver certificado](https://www.udemy.com/certificate/UC-fedd55da-8f4c-4448-87cf-9c3d9003c948/)
+   Credential ID: UC-3a1f6be5-7f17-4f7d-9c2e-63050f840ad0
+  [Ver certificado](https://www.udemy.com/certificate/UC-3a1f6be5-7f17-4f7d-9c2e-63050f840ad0/)
 
 - 📊 Power BI Advanced Analyst – Udemy  
-  Credential ID: UC-f5dfb01f-ab2-4d31-a94c-13ad961c664c  
-  [Ver certificado](https://www.udemy.com/certificate/UC-f5dfb01f-ab2-4d31-a94c-13ad961c664c/)
+  Credential ID: UC-f5dfb0f1-abb2-4d31-ac94-13ad961c664c 
+  [Ver certificado](https://www.udemy.com/certificate/UC-f5dfb0f1-abb2-4d31-ac94-13ad961c664c/)
 
 - 🗃️ SQL TOTAL: Bases de Datos de 0 a Avanzado en 12 Días – Udemy  
   Credential ID: UC-751e5d47-b92e-4209-b19f-1b51c98b47ab  
