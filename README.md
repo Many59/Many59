@@ -5,15 +5,15 @@
 <!--About me icono-->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Manuel! 
-*Digital Craftsman (Developer / Programmer)*
+*Data Sciense*
 <br /> 
+
+<!--GIF-->
+<div>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxOHJtZXIzemI3ZmRxYWh0NWo4dm42bXltdzZoOXFpZXp6azlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+</div>
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
@@ -43,3 +43,25 @@
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"> </code>
  </p>
+
+ 
+ ```python
+class Studies:
+  def program():
+    print("Build your future every single day")
+    
+    days = 0
+    coffee = True
+    work = True
+    
+    # While coffee == False:
+    #   print("Stop Working.")
+    
+    while coffee == False:
+      print("You need coffee to continue.")
+      coffee = True
+      
+    while coffee & work:
+      days += 1
+      productivity()
+	
