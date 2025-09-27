@@ -5,11 +5,6 @@
 <!--About me icono-->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--GIF-->
-<div>
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxOHJtZXIzemI3ZmRxYWh0NWo4dm42bXltdzZoOXFpZXp6azlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
-</div>
-
 <!--Start Intro-->               
 <p align="left">Hi there! I'm Manuel Moreno, a passionate data science enthusiast from Ciudad Obregón, Sonora 🇲🇽. </p>
 
@@ -20,7 +15,11 @@
 - Data analysis with Pandas, NumPy, Matplotlib, Seaborn
 - Machine Learning fundamentals
 - Power BI for business intelligence and visualization
-  
+  <!--GIF-->
+<div>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxOHJtZXIzemI3ZmRxYWh0NWo4dm42bXltdzZoOXFpZXp6azlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+</div>
+
 🎓 Certified in:
 - 🧠 Machine Learning & Data Science with Python – Udemy  
   Credential ID: UC-fedd55da-8f4c-4448-87cf-9c3d9003c948 
