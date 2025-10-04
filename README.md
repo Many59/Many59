@@ -86,25 +86,9 @@ class Studies:
 
 Here are some of the projects I've worked on to apply my data science skills in real-world scenarios:
 
-### 🧠 Machine Learning with Python
-🔗 [View Repository](https://github.com/tu-usuario/ml-python-project)  
-A complete machine learning pipeline using Python, Pandas, and Scikit-learn. Includes data cleaning, feature engineering, model training, and evaluation.
-
-### 📊 Power BI Sales Dashboard
-🔗 [View Repository](https://github.com/tu-usuario/powerbi-sales-dashboard)  
-Interactive dashboard built with Power BI to visualize sales performance, customer segmentation, and regional trends.
-
-### 🐍 SQL + Python Data Analysis
-🔗 [View Repository](https://github.com/tu-usuario/sql-python-analysis)  
-Exploratory data analysis using SQL queries and Python visualizations. Focused on extracting insights from a retail dataset.
-
-### 📈 Time Series Forecasting
-🔗 [View Repository](https://github.com/tu-usuario/time-series-forecasting)  
-Forecasting future demand using ARIMA and Prophet models. Includes visualizations and performance metrics.
-
-### 🐙 Web Scraping with Scrapy
-🔗 [View Repository](https://github.com/tu-usuario/web-scraping-scrapy)  
-Automated data extraction from e-commerce sites using Scrapy. Cleaned and stored data for analysis in Pandas.
+### 📊 Exploratory Data Analysis (EDA) – 
+🔗 [View Repository](https://github.com/tu-usuario/ml-python-project) 
+Iris Dataset Visual and statistical exploration of the Iris dataset. Includes charts, descriptive statistics, and key insights.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-moreno-7475a4370/" target="_blank">
