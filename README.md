@@ -59,6 +59,7 @@
   <code> <img height="50" src="https://github.com/tovacinni/cv-gfx-ml-icons/raw/main/neuralnetwork.svg" width="50" height="50"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"> </code>
+  <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50"> </code>
  </p>
 
  
