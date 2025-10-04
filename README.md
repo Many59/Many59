@@ -87,7 +87,7 @@ class Studies:
 Here are some of the projects I've worked on to apply my data science skills in real-world scenarios:
 
 ### 📊 Exploratory Data Analysis (EDA) – 
-🔗 [View Repository](https://github.com/tu-usuario/ml-python-project) 
+🔗 [View Repository](https://github.com/Many59/-Data-Science-Portfolio-./tree/0a50c7a3056435799dc45afad8aca0f736e46d7d/Analisis%20Exploratorio%20de%20Datos%20(EDA)%20iris) 
 Iris Dataset Visual and statistical exploration of the Iris dataset. Includes charts, descriptive statistics, and key insights.
 
 <p align="center">
