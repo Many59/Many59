@@ -116,7 +116,7 @@ Automated data extraction from e-commerce sites using Scrapy. Cleaned and stored
   <a href="https://wa.me/521644XXXXXXX" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
-  <a href="mailto:mgh597@gmail.com" target="_blank">
+  <a href="mailto:moreno.gdev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://github.com/Many59" target="_blank">
