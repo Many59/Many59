@@ -32,7 +32,7 @@
   Credential ID: UC-f5dfb0f1-abb2-4d31-ac94-13ad961c664c 
   [Ver certificado](https://www.udemy.com/certificate/UC-f5dfb0f1-abb2-4d31-ac94-13ad961c664c/)
 
-- 🗃️ SQL TOTAL: Bases de Datos de 0 a Avanzado en 12 Días – Udemy  
+- 🗃️ SQL TOTAL: Total Database – Udemy  
   Credential ID: UC-751e5d47-b92e-4209-b19f-1b51c98b47ab  
   [Ver certificado](https://www.udemy.com/certificate/UC-751e5d47-b92e-4209-b19f-1b51c98b47ab/)
 
