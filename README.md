@@ -17,7 +17,7 @@
 - Power BI for business intelligence and visualization
   <!--GIF-->
 <div>
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxOHJtZXIzemI3ZmRxYWh0NWo4dm42bXltdzZoOXFpZXp6azlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzODNwNG5jaGF1YjdjaWM0Z2VpcGIzcTA4ZTR1b2NnMGtyaW5lMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" />
 </div>
 
 🎓 Certified in:
