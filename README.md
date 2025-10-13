@@ -86,9 +86,17 @@ class Studies:
 
 Here are some of the projects I've worked on to apply my data science skills in real-world scenarios:
 
-### 📊 Exploratory Data Analysis (EDA) – 
-🔗 [View Repository](https://github.com/Many59/-Data-Science-Portfolio-./tree/0a50c7a3056435799dc45afad8aca0f736e46d7d/Analisis%20Exploratorio%20de%20Datos%20(EDA)%20iris) 
-Iris Dataset Visual and statistical exploration of the Iris dataset. Includes charts, descriptive statistics, and key insights.
+### Exploratory Data Analysis (EDA)
+🔗 [View Repository](https://github.com/Many59/-Data-Science-Portfolio-./tree/06e15793d3a6dd2323875722f9ddf5731fafd692/Analisis%20Exploratorio%20de%20Datos%20(EDA)%20iris) 
+Iris Dataset Visual and statistical exploration of the Iris dataset. Includes charts, descriptive statistics, and key observations.
+
+Time Series Analysis 
+🔗 [View Repository](https://github.com/Many59/-Data-Science-Portfolio-./tree/06e15793d3a6dd2323875722f9ddf5731fafd692/An%C3%A1lisis%20de%20Series%20Temporales%20(Ventas)) 
+Identification of peak sales days.Study of typical sales behavior over time. Comparison between predictive models and their results. Visualization of trends and patterns using Matplotlib and Power BI.
+
+Sales Prediction
+🔗 [View Repository](https://github.com/Many59/-Data-Science-Portfolio-./tree/06e15793d3a6dd2323875722f9ddf5731fafd692/Predicci%C3%B3n%20de%20Precios) 
+Comparison between Linear Regression and Random Forest. Real values vs. predicted values. Top 10 most important features according to the model.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-moreno-7475a4370/" target="_blank">
